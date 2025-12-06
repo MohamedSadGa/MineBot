@@ -5,10 +5,9 @@
     "type": "offline"
   },
 
-  "server": {
-    "ip": "dynamic-7.magmanode.com:25807", 
-    "port": 25807,   
-    "version": "1.17.1"   
+    "ip": "Tyrox_x.aternos.me", 
+    "port": 48211,   
+    "version": "1.12.1"   
   },
 
   "position": {
